@@ -56,7 +56,7 @@
 
 <samp>
 
-&ensp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> &ensp; Hey there! I'm **Alfan Alzri** aka **AlzriGames**
+&ensp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> &ensp; Hey there! I'm **Fikri Alifa Alfan Ramadhan** aka **AlzriGames**
 
 &ensp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25" /> &ensp; Based in **Indonesia** 🇮🇩
 
@@ -355,3 +355,4 @@
   <br/><br/>
   <samp><b>Made with � by AlzriGames</b></samp>
 </div>
+
